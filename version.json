@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "app_name": "Audio Remaster Pro",
-  "latest_version": "1.4.0",
-  "latest_tag": "v1.4.0",
+  "latest_version": "1.3.0",
+  "latest_tag": "v1.3.0",
   "min_supported_version": "1.0.0",
   "force_update": false,
   "github_repo": "mrsros/remaster",
